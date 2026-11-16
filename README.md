@@ -524,15 +524,8 @@
                             </div>
 
                             <!-- قائمة المترشحين المحاكاة -->
-                            <div class="p-4 space-y-2.5 bg-slate-50">
-                                <div class="flex items-center justify-between px-3 py-2 bg-white rounded-lg border border-slate-200 opacity-50 text-xs">
-                                    <span class="font-bold">11 — مترشح القائمة</span>
-                                    <span class="w-6 h-6 border border-slate-400 rounded"></span>
-                                </div>
-                                <div class="flex items-center justify-between px-3 py-2 bg-white rounded-lg border border-slate-200 opacity-50 text-xs">
-                                    <span class="font-bold">12 — مترشح القائمة</span>
-                                    <span class="w-6 h-6 border border-slate-400 rounded"></span>
-                                </div>
+                            <div class="p-1 space-y-2.5 bg-slate-50">
+                        
 
                                 <!-- خانة المترشح منصوري محمد رقم 13 التفاعلية -->
                                 <div id="ballot-row-13" onclick="toggleBallotMark()" class="cursor-pointer flex items-center justify-between px-4 py-3.5 bg-emerald-50 hover:bg-emerald-100 rounded-xl border-2 border-fln-green shadow-sm transition-all">
