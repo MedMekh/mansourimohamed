@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>منصوري محمد | حزب جبهة التحرير الوطني - القائمة 01 - المترشح 13</title>
+    <title>منصوري محمد | حزب جبهة التحرير الوطني - المترشح 13</title>
     
     <!-- خطوط عربية عصرية من Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
